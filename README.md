@@ -1,11 +1,7 @@
-# telecom-recharge-usage-analysis
-“Data-driven analysis of prepaid telecom recharge and usage behavior with ARPU, customer ranking, and city-wise insights.”
-“This project analyzes prepaid telecom customer data to uncover recharge patterns, usage behavior, and customer value metrics. It includes ARPU calculations, identification of the top 5 most valuable customers, and city-based usage summaries, all supported by data visualizations. The analysis is built using Python and pandas for a scalable, reusable workflow
+
 # Telecom Recharge & Usage Behavior Analysis 🚀
 
 This repository contains a data science project that analyzes prepaid telecom recharge and customer usage behavior. It demonstrates data joining, revenue analysis, customer ranking, and exploratory data visualization using a scalable, production-quality workflow.
-
----
 
 ## 📊 Project Summary
 
@@ -35,7 +31,7 @@ The project uses simulated large-scale telecom data to:
 ✅ Analyze data, voice, and SMS usage patterns by city  
 ✅ Visualize recharge distributions and usage patterns
 
----
+
 
 ## 🗂️ Project Structure
 
@@ -47,9 +43,27 @@ telecom-recharge-usage-analysis/
 ├── telecom_analysis.ipynb
 └── README.md
 
-yaml
-Copy
-Edit
+
+---
+
+## ⚙️ Tools & Technologies
+
+- Python 3
+- pandas
+- seaborn
+- matplotlib
+- Google Colab
+
+---
+
+## 🚀 How to Run This Project on Google Colab
+
+1. Upload this repository to your own Google Drive or fork/clone it to your GitHub account.
+
+2. Open Google Colab at [https://colab.research.google.com](https://colab.research.google.com).
+
+3. Click **File > Open Notebook > GitHub**, and paste your repository link:
+
 
 
 
